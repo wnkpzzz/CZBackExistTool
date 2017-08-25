@@ -11,6 +11,6 @@
 
 使用的是： Long-running background task + 播放无声音乐 双重调起方法。
 
-博客地址：
+博客地址(简书)：
 
-简书 http://www.jianshu.com/p/033b8a533e44
+ http://www.jianshu.com/p/033b8a533e44
